@@ -17,4 +17,3 @@ Create a report stating the performance of multiple models on this data and sugg
 
 Create a report which should include challenges you faced on data and what technique was used with proper reasoning.
 
-Note:- All above tasks must be created on a single jupyter notebook and  the same should be shared as part of final submission of the project.
